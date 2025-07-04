@@ -6,6 +6,7 @@ st.text(smoothiefroot_response)
 #requirement.txt
 snowflake-snowpark-python
 streamlit
+requests
 
 name: WebApp
 summary: Azure Web App Environment
